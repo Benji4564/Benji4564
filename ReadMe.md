@@ -87,12 +87,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Benji4564&icon=0&color=1" alt="Profile Views" />
-  </a>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" width="100%" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
